@@ -6,7 +6,7 @@
 name: Devansh Malik
 
 # Short bio or description (displayed in the header)
-description: Data Analytics and ML Enthusiast 
+description: Data Analytics and ML Enthusiast! 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/9520975?s=460&v=4
@@ -83,3 +83,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+theme: jekyll-theme-midnight   
