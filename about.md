@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Fourth Year Engineering student from the University of Waterloo.  
+Data science enthusiast on my journey to dig deeper in data analytics and machine learning with avid interest in business applications of data insights.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Check out my first post: [My Path to 'Option B']({{ site.baseurl }}/optionb)  
+My Projects on [Github](https://github.com/devanshmalik)  
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Connect with me on [LinkedIn](www.linkedin.com/in/devanshmalik)  
+[devansh.malik@uwaterloo.ca](mailto:devansh.malik@uwaterloo.ca)
